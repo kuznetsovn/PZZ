@@ -2,5 +2,3 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
 cache_comment2address.json filter=lfs diff=lfs merge=lfs -text
-*.rb linguist-language=Java
-
