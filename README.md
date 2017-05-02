@@ -44,9 +44,7 @@
 
 ## Карта
 [публичная ссылка](https://www.google.com/maps/d/viewer?mid=1_dznq4CXP62yII4yJnBd4qkmH7Q&ll=55.76489540197642%2C37.62241796093758&z=11)
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1_dznq4CXP62yII4yJnBd4qkmH7Q" width="640" height="480"></iframe>
-
+![map_screen](img/map_screen.png)
 
 * Записи по одному адресу с одинаковой направленностью (за/против) на карте группируются в одну метку
 * Метки могут перекрывать друг друга
